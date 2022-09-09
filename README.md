@@ -1,1 +1,1 @@
-# Educative-Practice-Java
+# To learn java from scratch 
