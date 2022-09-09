@@ -1,1 +1,1 @@
-# To learn java from scratch 
+# To learn java from scratch and practice OOPS concepts
